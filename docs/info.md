@@ -11,7 +11,7 @@ You can also include images in this folder and reference them in the markdown. E
 
 Explain how your project works
 
-![Block Diagram]("diagram.png")
+![Block Diagram]("diagram.PNG")
 
 ## How to test
 
